@@ -1,4 +1,4 @@
-# 1-1-Vue-Cloud-Music
+# Vue_Cloud_Music
 
 > a 1:1 like Cloud Music project coded by Vue
 
